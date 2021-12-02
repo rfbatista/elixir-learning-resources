@@ -1,5 +1,8 @@
 # Elixir
 
+# Readings
+- [https://elixirschool.com/pt](https://elixirschool.com/pt)
+
 # Presentations
 - [https://www.infoq.com/presentations/Erlang-OTP-Behaviors/](https://www.infoq.com/presentations/Erlang-OTP-Behaviors/)
 
