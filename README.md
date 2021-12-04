@@ -2,6 +2,7 @@
 
 # Readings
 - [https://elixirschool.com/pt](https://elixirschool.com/pt)
+- [https://til.hashrocket.com/?q=elixir](https://til.hashrocket.com/?q=elixir)
 
 # Presentations
 - [https://www.infoq.com/presentations/Erlang-OTP-Behaviors/](https://www.infoq.com/presentations/Erlang-OTP-Behaviors/)
